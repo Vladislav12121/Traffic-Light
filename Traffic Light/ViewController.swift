@@ -59,3 +59,6 @@ extension ViewController {
         case red, yellow, green
     }
 }
+
+
+// Сам не справился пришлось подглядывать в разбор домашнего задания
